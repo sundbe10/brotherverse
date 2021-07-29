@@ -7,6 +7,10 @@ export const phaserConfig = {
     width: window.innerWidth,
     height: window.innerHeight,
     resolution: window.devicePixelRatio, 
+    map: {
+        width: 8192,
+        height: 5792
+    },
     physics: {
         default: 'arcade',
         arcade: {

@@ -1,5 +1,4 @@
 import * as Phaser from 'phaser';
-import { phaserConfig } from '../../config/phaser.config';
 import gameService from '../services/game.service';
  
 export class PreloadScene extends Phaser.Scene {

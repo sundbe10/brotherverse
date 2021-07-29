@@ -19,13 +19,11 @@ export class GameScene extends Phaser.Scene {
     }
 
     create () {
-        const map = new MapGameObject(this, phaserConfig.width/2, phaserConfig.height/2)
+        const map = new MapGameObject(this);
         const cameraDrag = new CameraDrag(this);
     }
 
-    update() {
-
-    }
+    update() { }
 
     private changeState(state: GameSceneState) {
         this.state = state;

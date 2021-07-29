@@ -626,22 +626,22 @@
       "id": "1",
       "name": "Jimmy John's House",
       "description": "Jimmy John's House",
-      "x": "50",
-      "y": "50"
+      "x": 4124,
+      "y": 2600
     },
     {
       "id": "2",
       "name": "Bellion",
       "description": "test",
-      "x": "100",
-      "y": "100"
+      "x": 3500,
+      "y": 2636
     },
     {
       "id": "3",
       "name": "Sp Fjorg",
       "description": "spa fjorg",
-      "x": "200",
-      "y": "200"
+      "x": -300,
+      "y": -300
     }
   ]
 }
