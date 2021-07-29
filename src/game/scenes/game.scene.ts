@@ -1,4 +1,7 @@
 import * as Phaser from 'phaser';
+import { phaserConfig } from '../../config/phaser.config';
+import { CameraDrag } from '../classes/camera-drag';
+import { MapGameObject } from '../game-objects/map.game-object';
 
 export enum GameSceneState {
     INTRO,
@@ -16,7 +19,8 @@ export class GameScene extends Phaser.Scene {
     }
 
     create () {
-      
+        const map = new MapGameObject(this, phaserConfig.width/2, phaserConfig.height/2)
+        const cameraDrag = new CameraDrag(this);
     }
 
     update() {

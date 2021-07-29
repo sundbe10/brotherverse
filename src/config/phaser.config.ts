@@ -4,8 +4,8 @@ import * as WebFontLoaderPlugin from 'phaser3-rex-plugins/dist/rexwebfontloaderp
 
 export const phaserConfig = {
     type: Phaser.AUTO,
-    width: 1920,
-    height: 1080,
+    width: window.innerWidth,
+    height: window.innerHeight,
     resolution: window.devicePixelRatio, 
     physics: {
         default: 'arcade',

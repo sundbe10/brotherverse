@@ -1,0 +1,647 @@
+{
+  "episodes": [
+    {
+      "number": "60",
+      "arc": "Days of Thunder",
+      "title": "Angels and Airwhales",
+      "description": "Newly transported to the plane of air, our heroes make their way to the cloud city of Bageecha to find the Talis man with the talisman.",
+      "link": "https://brotherverse.com/podcast/60-days-of-thunder-angels-and-airwhales/",
+      "audio": "https://brotherverse.com/podcast-download/354/60-days-of-thunder-angels-and-airwhales.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/07/brotherverse-episode-60-art.jpg",
+      "location": null
+    },
+    {
+      "number": "59",
+      "arc": "Days of Thunder",
+      "title": "The Big Cloudbowski",
+      "description": "This episode really ties the podcast together.",
+      "link": "https://brotherverse.com/podcast/59-days-of-thunder-the-big-cloudbowski/",
+      "audio": "https://brotherverse.com/podcast-download/349/59-days-of-thunder-the-big-cloudbowski.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/07/brotherverse-episode-59-art.jpg",
+      "location": null
+    },
+    {
+      "number": "58",
+      "arc": "Days of Thunder",
+      "title": "Pain au Chocolat et Shellon Peanut Butter",
+      "description": "Our heroes don their chef hats and shed their dignity to prepare some homemade Crescent Island croissants.",
+      "link": "https://brotherverse.com/podcast/58-days-of-thunder-pain-au-chocolat-et-shellon-peanut-butter/",
+      "audio": "https://brotherverse.com/podcast-download/345/58-days-of-thunder-pain-au-chocolat-et-shellon-peanut-butter.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/05/brotherverse-episode-58-art.jpg",
+      "location": null
+    },
+    {
+      "number": "57",
+      "arc": "Days of Thunder",
+      "title": "Sea Serpent Showdown",
+      "description": "Yenry, Ork, and Puff set sail for the Crescent Islands, but rough seas lie ahead, and there are only so many hatches to batten.",
+      "link": "https://brotherverse.com/podcast/57-days-of-thunder-sea-serpent-showdown/",
+      "audio": "https://brotherverse.com/podcast-download/340/57-days-of-thunder-sea-serpent-showdown.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/04/brotherverse-episode-57-art-1.jpg",
+      "location": null
+    },
+    {
+      "number": "56",
+      "arc": "Days of Thunder",
+      "title": "The S.S.S.S.S.",
+      "description": "Endless knowledge is available within the halls of Tothian Library, but our heroes are quickly sidetracked by liquor and ice cream.",
+      "link": "https://brotherverse.com/podcast/56-days-of-thunder-the-s-s-s-s-s/",
+      "audio": "https://brotherverse.com/podcast-download/335/56-days-of-thunder-the-s-s-s-s-s.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/04/Episode-56.jpg",
+      "location": null
+    },
+    {
+      "number": "55",
+      "arc": "Days of Thunder",
+      "title": "Weekend at Harlow's",
+      "description": "This episode is brought to you by the Orthguard Army Standard Issue Tiny Teapot: \"Now you can sit and sip, with the S.I.T.T.\"",
+      "link": "https://brotherverse.com/podcast/55-days-of-thunder-weekend-at-harlows/",
+      "audio": "https://brotherverse.com/podcast-download/330/55-days-of-thunder-weekend-at-harlows.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/03/brotherverse-episode-55-art-1.jpg",
+      "location": null
+    },
+    {
+      "number": "54",
+      "arc": "Days of Thunder",
+      "title": "Bond, Soul Bond",
+      "description": "Fake Yenry transports our holey trinity (plus bear) to a parley with Commander Harlow Wells.",
+      "link": "https://brotherverse.com/podcast/54-days-of-thunder-bond-soul-bond/",
+      "audio": "https://brotherverse.com/podcast-download/326/54-days-of-thunder-bond-soul-bond.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/03/ep-54-art.jpg",
+      "location": null
+    },
+    {
+      "number": "53",
+      "arc": "Days of Thunder",
+      "title": "The Beartherverse",
+      "description": "First you take a bear. Put it in a hole. Then you take the hole. Put it in a book.",
+      "link": "https://brotherverse.com/podcast/53-days-of-thunder-the-beartherverse/",
+      "audio": "https://brotherverse.com/podcast-download/322/53-days-of-thunder-the-beartherverse.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/02/brotherverse-episode-53-art.jpg",
+      "location": null
+    },
+    {
+      "number": "52",
+      "arc": "Days of Thunder",
+      "title": "City of Toth",
+      "description": "Perry spills the beans on his dad (figuratively), and our trio hits a wall in Toth (literally).",
+      "link": "https://brotherverse.com/podcast/52-days-of-thunder-city-of-toth/",
+      "audio": "https://brotherverse.com/podcast-download/317/52-days-of-thunder-city-of-toth.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/02/brotherverse-episode-52-art-1.jpg",
+      "location": null
+    },
+    {
+      "number": "51",
+      "arc": "Days of Thunder",
+      "title": "Family Reunion",
+      "description": "Things get a little cuckoo at the Forehammer's.",
+      "link": "https://brotherverse.com/podcast/51-days-of-thunder-family-reunion/",
+      "audio": "https://brotherverse.com/podcast-download/313/51-days-of-thunder-family-reunion.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/01/brotherverse-episode-51-art.jpg",
+      "location": null
+    },
+    {
+      "number": "50.5",
+      "arc": "The Bonusverse",
+      "title": "Brotherversary",
+      "description": "It's our two year anniversary! We take a look back at the journey so far, and announce the winners of our Brotherversary giveaway!",
+      "link": "https://brotherverse.com/podcast/the-bonusverse-brotherversary/",
+      "audio": "https://brotherverse.com/podcast-download/309/the-bonusverse-brotherversary.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/01/2-year.jpg",
+      "location": null
+    },
+    {
+      "number": "50",
+      "arc": "Days of Thunder",
+      "title": "Talismemories",
+      "description": "Sage and the gang return to share their newfound discovery, and learn more about the sacred history of the Talismans (Talismen? Have we made this joke before?).",
+      "link": "https://brotherverse.com/podcast/50-days-of-thunder-talismemories/",
+      "audio": "https://brotherverse.com/podcast-download/306/50-days-of-thunder-talismemories.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2021/01/brotherverse-episode-50-art-square.jpg",
+      "location": null
+    },
+    {
+      "number": "49",
+      "arc": "20 Years Later",
+      "title": "Castle Caper",
+      "description": "With the pompous prince imprisoned in the pit of a portable repository, Puff portrays the  puny potentate to prevent apprehension.",
+      "link": "https://brotherverse.com/podcast/49-20-years-later-castle-caper/",
+      "audio": "https://brotherverse.com/podcast-download/302/49-20-years-later-castle-caper.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/12/brotherverse-episode-49-art-square.jpg",
+      "location": null
+    },
+    {
+      "number": "48",
+      "arc": "20 Years Ago",
+      "title": "The Prince and The Paup-ork",
+      "description": "With a suit-and-a-half of shiny new armor, our trio devises a half-baked scheme (as is tradition) to infiltrate the castle.",
+      "link": "https://brotherverse.com/podcast/48-20-years-ago-the-prince-and-the-paup-ork/",
+      "audio": "https://brotherverse.com/podcast-download/298/48-20-years-ago-the-prince-and-the-paup-ork.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-48-art.jpg",
+      "location": null
+    },
+    {
+      "number": "47",
+      "arc": "20 Years Ago",
+      "title": "The Church of Trash",
+      "description": "Holy trash man, king of the gutter, we thank you for this pile of hot garbage. Amen.",
+      "link": "https://brotherverse.com/podcast/47-20-years-ago-the-church-of-trash/",
+      "audio": "https://brotherverse.com/podcast-download/294/47-20-years-ago-the-church-of-trash.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-47-art-square.jpg",
+      "location": null
+    },
+    {
+      "number": "46",
+      "arc": "20 Years Ago",
+      "title": "The Ham Of Your Labors",
+      "description": "Pop some candy corn and cozy up by the campfire; it's time for a spooky Boooootherverse Halloween special!",
+      "link": "https://brotherverse.com/podcast/46-20-years-ago-the-ham-of-your-labors/",
+      "audio": "https://brotherverse.com/podcast-download/261/46-20-years-ago-the-ham-of-your-labors.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-46-art-square.jpg",
+      "location": null
+    },
+    {
+      "number": "45",
+      "arc": "20 Years Ago",
+      "title": "Festival of the Moon",
+      "description": "Our trio employs a floofy guide for their journey to the capital, but in exchange for her services, they must first take a little trip into the Deep Woods.",
+      "link": "https://brotherverse.com/podcast/45-20-years-ago-festival-of-the-moon/",
+      "audio": "https://brotherverse.com/podcast-download/255/45-20-years-ago-festival-of-the-moon.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/10/brotherverse-episode-45-art-thumb.jpg",
+      "location": null
+    },
+    {
+      "number": "44",
+      "arc": "20 Years Ago",
+      "title": "The Legend of Strength Lizard",
+      "description": "Wait... first we jumped ahead one year; now it's 20 years in the past? What is this, Lost?",
+      "link": "https://brotherverse.com/podcast/44-20-years-ago-the-legend-of-strength-lizard/",
+      "audio": "https://brotherverse.com/podcast-download/238/44-20-years-ago-the-legend-of-strength-lizard.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/09/brotherverse-episode-44-art.jpg",
+      "location": null
+    },
+    {
+      "number": "43",
+      "arc": "One Year Later",
+      "title": "Verb that Noun",
+      "description": "This episode is kinda like that time in Harry Potter when Gandalf drank the liquid, and Captain Kirk was like \"No, don't do it!\"",
+      "link": "https://brotherverse.com/podcast/43-one-year-later-verb-that-noun/",
+      "audio": "https://brotherverse.com/podcast-download/235/43-one-year-later-verb-that-noun.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/09/brotherverse-episode-43-art.jpg",
+      "location": null
+    },
+    {
+      "number": "42",
+      "arc": "One Year Later",
+      "title": "Good Boulder Boy",
+      "description": "Three gems remain after successfully collecting Water, Wind & Fire. (If the first one had been Earth, I could've made a sick joke about remembering the first night of September.)",
+      "link": "https://brotherverse.com/podcast/42-one-year-later-vertical-grope-train/",
+      "audio": "https://brotherverse.com/podcast-download/232/42-one-year-later-vertical-grope-train.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/08/brotherverse-episode-42-art.jpg",
+      "location": null
+    },
+    {
+      "number": "41",
+      "arc": "One Year Later",
+      "title": "Are We Dead?",
+      "description": "Our heroes reach the source of The Great Shiny and boldly don their diapers for what lies ahead.",
+      "link": "https://brotherverse.com/podcast/41-one-year-later-are-we-dead/",
+      "audio": "https://brotherverse.com/podcast-download/229/41-one-year-later-are-we-dead.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/08/brotherverse-episode-41-art.jpg",
+      "location": null
+    },
+    {
+      "number": "40",
+      "arc": "One Year Later",
+      "title": "Feesh, Feesh, Greg",
+      "description": "Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, Feesh, GREG",
+      "link": "https://brotherverse.com/podcast/40-one-year-later-feesh-feesh-greg/",
+      "audio": "https://brotherverse.com/podcast-download/226/40-one-year-later-feesh-feesh-greg.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/07/brotherverse-episode-40-art.jpg",
+      "location": null
+    },
+    {
+      "number": "39",
+      "arc": "One Year Later",
+      "title": "The Musical",
+      "description": "A year has passed since the great Mardinian airship battle. While the Keepers lay low and plan their next move, our heroes have been hard at work on... a musical theater performance?",
+      "link": "https://brotherverse.com/podcast/39-one-year-later-the-musical/",
+      "audio": "https://brotherverse.com/podcast-download/223/39-one-year-later-the-musical.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/07/brotherverse-episode-39-art.jpg",
+      "location": null
+    },
+    {
+      "number": "38",
+      "arc": "Rise of Orthguard",
+      "title": "Airship Battle Part 4",
+      "description": "Is this battle still going on?? As we near the end, will our heroes escape or meet an untimely demise at the hands of the Guardians? (hopefully the first or this podcast is toast)",
+      "link": "https://brotherverse.com/podcast/38-rise-of-orthguard-airship-battle-part-4/",
+      "audio": "https://brotherverse.com/podcast-download/219/38-rise-of-orthguard-airship-battle-part-4.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/06/brotherverse-episode-38-art.jpg",
+      "location": null
+    },
+    {
+      "number": "37",
+      "arc": "Rise of Orthguard",
+      "title": "Airship Battle Part 3",
+      "description": "The airship battle rages on! Battles are won, lives are lost, Swayzes are stanked, but who will prevail?",
+      "link": "https://brotherverse.com/podcast/37-rise-of-orthguard-airship-battle-part-3/",
+      "audio": "https://brotherverse.com/podcast-download/216/37-rise-of-orthguard-airship-battle-part-3.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/06/brotherverse-episode-37-art.jpg",
+      "location": null
+    },
+    {
+      "number": "36",
+      "arc": "Rise of Orthguard",
+      "title": "Airship Battle Part 2",
+      "description": "The fate of Mardinia hangs in the balance as an epic airship battle ensues between Keepers and Guardians.",
+      "link": "https://brotherverse.com/podcast/36-rise-of-orthguard-airship-battle-part-2/",
+      "audio": "https://brotherverse.com/podcast-download/213/36-rise-of-orthguard-airship-battle-part-2.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/05/brotherverse-episode-36-art.jpg",
+      "location": null
+    },
+    {
+      "number": "35",
+      "arc": "Rise of Orthguard",
+      "title": "Airship Battle Part 1",
+      "description": "Yenry, Ork, and Puff leave the festival and return to the Valkyrie to warn the Keepers of an imminent attack. (So... no Salamander Man concert?)",
+      "link": "https://brotherverse.com/podcast/35-rise-of-orthguard-airship-battle-part-1/",
+      "audio": "https://brotherverse.com/podcast-download/210/35-rise-of-orthguard-airship-battle-part-1.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/05/brotherverse-episode-35-art.jpg",
+      "location": null
+    },
+    {
+      "number": "34",
+      "arc": "Festival of Light",
+      "title": "Launch Date",
+      "description": "After a minor setback (and a major understatement), the Guardians now have the intel they need to locate the Keepers' secret hideout (thanks a lot, HANZ).",
+      "link": "https://brotherverse.com/podcast/34-festival-of-light-launch-date/",
+      "audio": "https://brotherverse.com/podcast-download/207/34-festival-of-light-launch-date.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/09/brotherverse-episode-34-art.jpg",
+      "location": null
+    },
+    {
+      "number": "33",
+      "arc": "Festival of Light",
+      "title": "Toe to Toad",
+      "description": "This was the easiest boss battle ever: Vlog croaked as soon as we walked in the room! (Get it? He's a toad... but for reals, this is a tough fight).",
+      "link": "https://brotherverse.com/podcast/33-festival-of-light-toe-to-toad/",
+      "audio": "https://brotherverse.com/podcast-download/204/33-festival-of-light-toe-to-toad.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/09/brotherverse-episode-33-art.jpg",
+      "location": null
+    },
+    {
+      "number": "32",
+      "arc": "Festival of Light",
+      "title": "Pelvic Persuasion",
+      "description": "With all four keycards in hand (or wherever they keep things), our trio heads back to the Stake House to further infiltrate the Rectron base.",
+      "link": "https://brotherverse.com/podcast/32-festival-of-light-pelvic-persuasion/",
+      "audio": "https://brotherverse.com/podcast-download/201/32-festival-of-light-pelvic-persuasion.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/09/brotherverse-episode-32-art.jpg",
+      "location": null
+    },
+    {
+      "number": "31",
+      "arc": "Festival of Light",
+      "title": "Ain't You Never Seen a Horse Before?",
+      "description": "With the Rectrons' suspicion rising, our heroes pull off a brilliantly stupid disguise to escape being captured.",
+      "link": "https://brotherverse.com/podcast/31-festival-of-light-aint-you-never-seen-a-horse-before/",
+      "audio": "https://brotherverse.com/podcast-download/197/31-festival-of-light-aint-you-never-seen-a-horse-before.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-31-art.jpg",
+      "location": null
+    },
+    {
+      "number": "30",
+      "arc": "Festival of Light",
+      "title": "Opening the Robutt",
+      "description": "Part two of the epic (and juvenile) showdown with the mouse kingdom mech.",
+      "link": "https://brotherverse.com/podcast/30-festival-of-light-opening-the-robutt/",
+      "audio": "https://brotherverse.com/podcast-download/192/30-festival-of-light-opening-the-robutt.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-30-art.jpg",
+      "location": null
+    },
+    {
+      "number": "29",
+      "arc": "Festival of Light",
+      "title": "Robo-Rumble",
+      "description": "Welcome to The Brotherverse late night, where we get a little too familiar with a giant rat controlled mech suite.",
+      "link": "https://brotherverse.com/podcast/29-festival-of-light-robo-rumble/",
+      "audio": "https://brotherverse.com/podcast-download/189/29-festival-of-light-robo-rumble.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-29-art.jpg",
+      "location": null
+    },
+    {
+      "number": "28",
+      "arc": "Festival of Light",
+      "title": "Extreme Mouseover",
+      "description": "Hickory, dickory, dock. With mice, we now can talk. Their city is cool, but the king is a fool. Hickory, dickory, dock.",
+      "link": "https://brotherverse.com/podcast/28-festival-of-light-extreme-mouseover/",
+      "audio": "https://brotherverse.com/podcast-download/186/28-festival-of-light-extreme-mouseover.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-28-art.png",
+      "location": null
+    },
+    {
+      "number": "27",
+      "arc": "Festival of Light",
+      "title": "History of Vanguard",
+      "description": "Before continuing their search for key cards, our heroes learn more about why the city of Vanguard is so obsessed with light.",
+      "link": "https://brotherverse.com/podcast/27-festival-of-light-history-of-vanguard/",
+      "audio": "https://brotherverse.com/podcast-download/183/27-festival-of-light-history-of-vanguard.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-27-art.png",
+      "location": null
+    },
+    {
+      "number": "26",
+      "arc": "Festival of Light",
+      "title": "Catch the Boggle",
+      "description": "Our \"heroes\" follow their new \"friends\" to the \"Stake House\" for some \"friendly\" gambling (and our \"writer\" is including too many \"air quotes\").",
+      "link": "https://brotherverse.com/podcast/26-festival-of-light-catch-the-boggle/",
+      "audio": "https://brotherverse.com/podcast-download/180/26-festival-of-light-catch-the-boggle.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-26-art.jpg",
+      "location": null
+    },
+    {
+      "number": "25",
+      "arc": "Festival of Light",
+      "title": "Sprite Race",
+      "description": "Yenry, Ork, and Puff explore the Festival of Light in search of seedy gangster members of the... Rubicons? Retcons? Dis... rectal... cons?",
+      "link": "https://brotherverse.com/podcast/25-festival-of-light-sprite-race/",
+      "audio": "https://brotherverse.com/podcast-download/177/25-festival-of-light-sprite-race.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-25-art.jpg",
+      "location": null
+    },
+    {
+      "number": "24",
+      "arc": "Festival of Light",
+      "title": "Caravan to Vanguard",
+      "description": "Our heroes learn more about the city of Vanguard's Festival of Light and set forth on their quest for the next talisman.",
+      "link": "https://brotherverse.com/podcast/24-festival-of-light-caravan-to-vanguard/",
+      "audio": "https://brotherverse.com/podcast-download/171/24-festival-of-light-caravan-to-vanguard.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-24-art.jpg",
+      "location": null
+    },
+    {
+      "number": "23",
+      "arc": "Festival of Light",
+      "title": "The Trainer Chamber",
+      "description": "Dragon slayers! Talisman collectors! City saviors (slash destroyers)! Our heroes return to the Valkyrie feeling quantifiably accomplished and ready for their next mission, but not before some more shenanigans with Grimm.",
+      "link": "https://brotherverse.com/podcast/23-festival-of-light-the-trainer-chamber/",
+      "audio": "https://brotherverse.com/podcast-download/168/23-festival-of-light-the-trainer-chamber.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-23-art.jpg",
+      "location": null
+    },
+    {
+      "number": "22",
+      "arc": "City of Zamtal",
+      "title": "There Is Only Zu",
+      "description": "Our fiercest battle yet continues against the powerful dragon Zu: The Golden One.",
+      "link": "https://brotherverse.com/podcast/22-city-of-zamtal-there-is-only-zu/",
+      "audio": "https://brotherverse.com/podcast-download/165/22-city-of-zamtal-there-is-only-zu.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-22-art.jpg",
+      "location": null
+    },
+    {
+      "number": "21",
+      "arc": "City of Zamtal",
+      "title": "Touch Gold, Marry Princess",
+      "description": "Yenry, Ork, and Puff confront the ominous creature at the top of the central tower in an effort to save the city (or what's left of it) and locate the Talisman of Darkness.",
+      "link": "https://brotherverse.com/podcast/21-city-of-zamtal-touch-gold-marry-princess/",
+      "audio": "https://brotherverse.com/podcast-download/162/21-city-of-zamtal-touch-gold-marry-princess.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-21-art.jpg",
+      "location": null
+    },
+    {
+      "number": "20",
+      "arc": "City of Zamtal",
+      "title": "This Was a Bad Idea",
+      "description": "Was it hubris? Or perhaps apathy? We've made our mistakes in the past, but the burdensome cloud of regret may long loom over our heads as we look back on this day and ask \"Why?\"",
+      "link": "https://brotherverse.com/podcast/20-city-of-zamtal-this-was-a-bad-idea/",
+      "audio": "https://brotherverse.com/podcast-download/159/20-city-of-zamtal-this-was-a-bad-idea.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-20-art.jpg",
+      "location": null
+    },
+    {
+      "number": "19",
+      "arc": "City of Zamtal",
+      "title": "Never Name Your Pet Zombie",
+      "description": "Our heroes arrive in a new dimension, where they are quickly attacked by a trio of greedy Zamtal zombies (Zam-bies?). The battle would be swift, if only we could remember how to play DnD.",
+      "link": "https://brotherverse.com/podcast/19-city-of-zamtal-never-name-your-pet-zombie/",
+      "audio": "https://brotherverse.com/podcast-download/156/19-city-of-zamtal-never-name-your-pet-zombie.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-19-art.jpg",
+      "location": null
+    },
+    {
+      "number": "18",
+      "arc": "City of Zamtal",
+      "title": "Dope Robot, Bro",
+      "description": "With the capable Captain Kudos at the helm, our crew follows their map to the potential location of the Pillar of Darkness, where they are ultimately met with more perplexing puzzles, enraged enemies, and juvenile jokes.",
+      "link": "https://brotherverse.com/podcast/18-city-of-zamtal-dope-robot-bro/",
+      "audio": "https://brotherverse.com/podcast-download/153/18-city-of-zamtal-dope-robot-bro.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-18-art.jpg",
+      "location": null
+    },
+    {
+      "number": "17",
+      "arc": "City of Zamtal",
+      "title": "Powder Keg Race!",
+      "description": "Yenry, Ork, Puff, and the Dusty Britches Gang celebrate their newfound friendship with a good ol' fashioned drinking game, so grab yourself a goat and play along at home! (Please milk responsibly.)",
+      "link": "https://brotherverse.com/podcast/17-city-of-zamtal-powder-keg-race/",
+      "audio": "https://brotherverse.com/podcast-download/150/17-city-of-zamtal-powder-keg-race.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-17-art.jpg",
+      "location": null
+    },
+    {
+      "number": "16",
+      "arc": "City of Zamtal",
+      "title": "Mutiny on the Britches",
+      "description": "The sandy seafaring adventure continues as our heroes attempt to out-man, outmaneuver, and out-mouse the pursuing pirate ship.",
+      "link": "https://brotherverse.com/podcast/16-city-of-zamtal-mutiny-on-the-britches/",
+      "audio": "https://brotherverse.com/podcast-download/147/16-city-of-zamtal-mutiny-on-the-britches.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-16-art.jpg",
+      "location": null
+    },
+    {
+      "number": "15",
+      "arc": "City of Zamtal",
+      "title": "Skimming the Great Sand Sea",
+      "description": "Avast, mateys! A vast sea of sand stands between us and the Pillar of Darkness, so avast-en your seat belts (oof); it's gonna be a vastly bumpy ride!",
+      "link": "https://brotherverse.com/podcast/15-city-of-zamtal-skimming-the-great-sand-sea/",
+      "audio": "https://brotherverse.com/podcast-download/144/15-city-of-zamtal-skimming-the-great-sand-sea.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-15-art.jpg",
+      "location": null
+    },
+    {
+      "number": "14.5",
+      "arc": "The Bonusverse",
+      "title": "The Brendanverse",
+      "description": "Time for some bonus content that didn't make it into an actual session. We're calling these special episodes The Bonusverse (wow). This time around, the Brotherverse chats about an important figure in their lives.",
+      "link": "https://brotherverse.com/podcast/the-bonusverse-the-brendanverse/",
+      "audio": "https://brotherverse.com/podcast-download/141/the-bonusverse-the-brendanverse.mp3",
+      "image": null,
+      "location": "0"
+    },
+    {
+      "number": "14",
+      "arc": "City of Zamtal",
+      "title": "The Birth of Wenry",
+      "description": "It's that time again! The Brotherverse is leveling up! ('cause what's more fun than a bunch of numbers and math?) Feeling freshly plus-one-ified, our crew sets forth on their mission to find the next talisman.",
+      "link": "https://brotherverse.com/podcast/14-city-of-zamtal-the-birth-of-wenry/",
+      "audio": "https://brotherverse.com/podcast-download/134/14-city-of-zamtal-the-birth-of-wenry.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-14-art.jpg",
+      "location": "2"
+    },
+    {
+      "number": "13",
+      "arc": "City of Zamtal",
+      "title": "A Zany Competition",
+      "description": "After a brief celebration, the Keepers turn their attention to finding the next Talisman (real party poopers over here). While top minds decrypt the ancient puzzles, bottom minds are left with some time to kill, so our heroes challenge Grimm to a \"friendly\" competition.",
+      "link": "https://brotherverse.com/podcast/13-city-of-zamtal-a-zany-competition/",
+      "audio": "https://brotherverse.com/podcast-download/130/13-city-of-zamtal-a-zany-competition.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-13-art.jpg",
+      "location": "2"
+    },
+    {
+      "number": "12",
+      "arc": "Spa Fjorg",
+      "title": "Bath House Brawl",
+      "description": "Evil plots are revealed and weak stomachs are emptied as our heroes confront Esther in the ultimate showdown for the fate of the spa and the Talisman of Water.",
+      "link": "https://brotherverse.com/podcast/12-spa-fjorg-bath-house-brawl/",
+      "audio": "https://brotherverse.com/podcast-download/127/12-spa-fjorg-bath-house-brawl.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-12-art.jpg",
+      "location": "3"
+    },
+    {
+      "number": "11",
+      "arc": "Spa Fjorg",
+      "title": "Super Secret Science Glass",
+      "description": "With determination in their hearts (and diapers on their butts), our trio dives deeper into the belly of the spa, where they slowly piece together the seemingly nefarious puzzle (emphasis on slowly).",
+      "link": "https://brotherverse.com/podcast/11-spa-fjorg-super-secret-science-glass/",
+      "audio": "https://brotherverse.com/podcast-download/124/11-spa-fjorg-super-secret-science-glass.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-11-art.jpg",
+      "location": "3"
+    },
+    {
+      "number": "10",
+      "arc": "Spa Fjorg",
+      "title": "Binfiltration",
+      "description": "Yenry, Ork, and Puff hatch a bizarre ploy to further infiltrate the spa and continue their search for the Talisman of Water.",
+      "link": "https://brotherverse.com/podcast/10-spa-fjorg-binfiltration/",
+      "audio": "https://brotherverse.com/podcast-download/121/10-spa-fjorg-binfiltration.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-10-art.jpg",
+      "location": "3"
+    },
+    {
+      "number": "9",
+      "arc": "Spa Fjorg",
+      "title": "Prestidigidepends",
+      "description": "Our crew begins their reconnaissance mission at Spa Fjorg, where they'll have to go undercover as spa guests and do things like bask and rejuvenate (tough day on the job).",
+      "link": "https://brotherverse.com/podcast/9-spa-fjorg-prestidigidepends/",
+      "audio": "https://brotherverse.com/podcast-download/116/9-spa-fjorg-prestidigidepends.mp3",
+      "image": null,
+      "location": "3"
+    },
+    {
+      "number": "8",
+      "arc": "Spa Fjorg",
+      "title": "Don't Mess With Spa Day",
+      "description": "Freshly equipped with mechanical Ravens, the gang takes flight toward the illustrious Spa Fjorg. But it's not about the destination . . . actually the destination sounds pretty great. The journey's probably gonna suck.",
+      "link": "https://brotherverse.com/podcast/8-spa-fjorg-dont-mess-with-spa-day/",
+      "audio": "https://brotherverse.com/podcast-download/112/8-spa-fjorg-dont-mess-with-spa-day.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-8-art.jpg",
+      "location": "3"
+    },
+    {
+      "number": "7",
+      "arc": "Spa Fjorg",
+      "title": "Raven Whisperers",
+      "description": "Our heroes finally have an objective! Our story has a plot (and it only took 6 episodes). What better way to start a new adventure than with a new whip, some fresh wheels, a mint ride (we get it, you're hip).",
+      "link": "https://brotherverse.com/podcast/7-spa-fjorg-raven-whisperers/",
+      "audio": "https://brotherverse.com/podcast-download/109/7-spa-fjorg-raven-whisperers.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/ep-7-art-large.jpg",
+      "location": "2"
+    },
+    {
+      "number": "6",
+      "arc": "Bellion Bound",
+      "title": "The Valkyrie",
+      "description": "Our heroes try to PARSE(LY) out their current predicament after being summoned by the mysterious General SAGE. But will their tendency to eat, drink, and be (ROSE)MARY get them into more trouble this THYME? (Wow, sick Simon & Garfunkel reference.)",
+      "link": "https://brotherverse.com/podcast/6-bellion-bound-the-valkyrie/",
+      "audio": "https://brotherverse.com/podcast-download/106/6-bellion-bound-the-valkyrie.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-6-art.jpg",
+      "location": "2"
+    },
+    {
+      "number": "5",
+      "arc": "Bellion Bound",
+      "title": "Dungeons and Dana Moranis",
+      "description": "Yenry, Ork, and Puff awaken from their unconscious state (yet again) to find themselves shackled in a dingy basement. Can they prove their innocence and gain favor with the Bellionians? (Or is it Bellionites? Bellionaires?)",
+      "link": "https://brotherverse.com/podcast/5-bellion-bound-dungeons-and-dana-moranis/",
+      "audio": "https://brotherverse.com/podcast-download/103/5-bellion-bound-dungeons-and-dana-moranis.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-5-art.jpg",
+      "location": "2"
+    },
+    {
+      "number": "4",
+      "arc": "Bellion Bound",
+      "title": "Level Up",
+      "description": "What? The Brotherverse is evolving! The gang advances to level 2 and learns everything there is to know about tomatoes (sounds thrilling), before finally arriving in the great city of Bellion.",
+      "link": "https://brotherverse.com/podcast/4-bellion-bound-level-up/",
+      "audio": "https://brotherverse.com/podcast-download/100/4-bellion-bound-level-up.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-4-art.jpg",
+      "location": "2"
+    },
+    {
+      "number": "3",
+      "arc": "Bellion Bound",
+      "title": "Boss Battle!",
+      "description": "Look at all those \"B\"s in the title! You know this episode's gonna be good with that much alliteration (seems like overkill). Yenry, Ork, Puff, and Patches continue their quest to rescue Charlotte from the deranged Annabelle.",
+      "link": "https://brotherverse.com/podcast/3-bellion-bound-boss-battle/",
+      "audio": "https://brotherverse.com/podcast-download/97/3-bellion-bound-boss-battle.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2020/11/brotherverse-episode-3-art.jpg",
+      "location": "1"
+    },
+    {
+      "number": "2",
+      "arc": "Bellion Bound",
+      "title": "Boomin' On Gumdrops",
+      "description": "Yenry, Ork, and Puff enjoy the John family's sandwich-laden hospitality before some much needed rest (maybe they can sleep away the trauma), but young Charlotte is in danger! The lines between dream and reality are blurred as our heroes (debatable) are called upon to help restore order.",
+      "link": "https://brotherverse.com/podcast/2-bellion-bound-boomin-on-gumdrops/",
+      "audio": "https://brotherverse.com/podcast-download/52/2-bellion-bound-boomin-on-gumdrops.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2019/01/brotherverse-logo-album.jpg",
+      "location": "1"
+    },
+    {
+      "number": "1",
+      "arc": "Bellion Bound",
+      "title": "My Only Memory",
+      "description": "With no memory of the last 20 years (talk about FOMO), Yenry, Ork, and Puff awaken to find themselves traveling in a humble sandwich-maker's wagon, bound for the city of Bellion. What dangers await them on the rocky road ahead?",
+      "link": "https://brotherverse.com/podcast/my-only-memory/",
+      "audio": "https://brotherverse.com/podcast-download/37/my-only-memory.mp3",
+      "image": "https://brotherverse.com/wp-content/uploads/2019/01/brotherverse-logo-album.jpg",
+      "location": "1"
+    }
+  ],
+  "locations": [
+    {
+      "id": "1",
+      "name": "Jimmy John's House",
+      "description": "Jimmy John's House",
+      "x": "50",
+      "y": "50"
+    },
+    {
+      "id": "2",
+      "name": "Bellion",
+      "description": "test",
+      "x": "100",
+      "y": "100"
+    },
+    {
+      "id": "3",
+      "name": "Sp Fjorg",
+      "description": "spa fjorg",
+      "x": "200",
+      "y": "200"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import * as Phaser from 'phaser';
 import { phaserConfig } from '../../config/phaser.config';
+import gameService from '../services/game.service';
  
 export class PreloadScene extends Phaser.Scene {
 
@@ -17,13 +18,16 @@ export class PreloadScene extends Phaser.Scene {
     })
     
     // Images
-    // this.load.image('alien-eye', 'assets/images/alien-eye.png');
+    this.load.image('map', 'assets/images/mardinia-map.jpg');
 
     // Player Assets
     // this.load.spritesheet('explosion-red', 'assets/images/explosion.png', { frameWidth: 150, frameHeight: 150 });
 
     // Audio
     //this.load.audio('game-music', 'assets/audio/game-music.mp3');
+
+    // JSON
+    this.load.json('game-data', 'assets/json/game-data.json')
     
     // Loading Progress
     this.cameras.main.setBackgroundColor('#ffffff')
@@ -47,6 +51,8 @@ export class PreloadScene extends Phaser.Scene {
       frameRate: 12,
       repeat: 0
     })*/
+
+    gameService.data = this.cache.json.get('game-data');
 
     // Loading
 
